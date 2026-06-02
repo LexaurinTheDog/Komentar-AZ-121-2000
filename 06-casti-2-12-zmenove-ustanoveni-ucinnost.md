@@ -127,11 +127,15 @@ Novela rovněž doplnila do živnostenského zákona odkazy pod čarou. V katalo
 
 > **§ 112**
 >
-> *V § 4 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, ve znění zákona č. 96/1993 Sb. […] a zákona č. 103/2000 Sb., se za písmenem zd) tečka nahrazuje čárkou a doplňuje se písmeno ze), které včetně poznámky pod čarou č. 64a) zní:*
+> *V § 4 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, ve znění zákona č. 96/1993 Sb., zákona č. 157/1993 Sb., zákona č. 196/1993 Sb., zákona č. 323/1993 Sb., zákona č. 259/1994 Sb., zákona č. 118/1995 Sb., zákona č. 149/1995 Sb., zákona č. 316/1996 Sb., zákona č. 209/1997 Sb., zákona č. 210/1997 Sb., zákona č. 111/1998 Sb., zákona č. 149/1998 Sb., zákona č. 168/1998 Sb., zákona č. 333/1998 Sb., zákona č. 63/1999 Sb., zákona č. 144/1999 Sb., zákona č. 225/1999 Sb., nálezu Ústavního soudu č. 3/2000 Sb. a zákona č. 103/2000 Sb., se za písmenem zd) tečka nahrazuje čárkou a doplňuje se písmeno ze), které včetně poznámky pod čarou č. 64a) zní:*
 >
-> *„ze) příjmy plynoucí ve formě povinného výtisku na základě zvláštního právního předpisu64a) a ve formě autorské rozmnoženiny, v počtu obvyklém, přijaté v souvislosti s užitím předmětu práva autorského nebo práv souvisejících s právem autorským.*
+> *- „ze) příjmy plynoucí ve formě povinného výtisku na základě zvláštního právního předpisu64a) a ve formě autorské rozmnoženiny, v počtu obvyklém, přijaté v souvislosti s užitím předmětu práva autorského nebo práv souvisejících s právem autorským.*
 >
-> *64a) Zákon č. 37/1995 Sb., o neperiodických publikacích. Zákon č. 53/1959 Sb., o jednotné soustavě knihoven, ve znění zákona č. 425/1990 Sb. Zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon)."*.
+> *64a) Zákon č. 37/1995 Sb., o neperiodických publikacích.*
+>
+> * Zákon č. 53/1959 Sb., o jednotné soustavě knihoven, ve znění zákona č. 425/1990 Sb.*
+>
+> * Zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon).“.*
 
 **Výklad:**
 
