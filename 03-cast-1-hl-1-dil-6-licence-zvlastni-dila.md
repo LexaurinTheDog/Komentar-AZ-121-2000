@@ -1196,6 +1196,11 @@ Stejně jako u režiséra (§ 63 odst. 4) — i **autorovi díla audiovizuálně
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 5008/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E2A77EB34CE784AC1257E6D0031029E?openDocument) — 25. 3. 2015, kat. A
+  > „Využívají-li hosté internetové kavárny na počítačových stanicích grafické uživatelské rozhraní, které má charakter autorského díla, jde o sdělování tohoto díla veřejnosti ve smyslu autorského zákona"
+
 #### Ochrana SW jako literárního díla (odst. 1)
 
 § 65 odst. 1 transponuje **čl. 1 odst. 1 směrnice 2009/24/ES** o právní ochraně počítačových programů (kodifikace dřívější směrnice 91/250/EHS). Pravidlo:

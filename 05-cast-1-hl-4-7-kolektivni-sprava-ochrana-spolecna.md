@@ -113,6 +113,11 @@ Odst. 2 vyjímá z licencování MK zahraniční subjekty poskytující **multit
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2179/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50F4462A1BB1FFE3C1257F850030A944?openDocument) — 20. 1. 2016, kat. A
+  > „1. Jestliže Ministerstvo kultury nevydalo oprávnění ve smyslu § 106 odst. 7 zákona č. 121/2000 Sb. v tam stanovené lhůtě a svým dalším postupem vyvolalo pochybnosti o tom, která práva vykonávaná hromadným správcem podle zákona č. 237/1995 Sb. a v jakém rozsahu mohou být tímto správcem vykonávána i podle zákona č. 121/2000 Sb., nelze bez dalšího uzavřít, že příčinou vzniku ušlého zisku v důsledku nevykonávání daných práv podle zákona č. 121/2000 Sb. je rozhodnutí hromadného správce tato práva nevykonávat. 2. Je-li vydání úředního povolení pro výkon určité činnosti součástí obvyklého běhu věcí, je jeho nevydání v zákonem stanovené lhůtě příčinou ztráty zisku ušlého tím, že poškozený nemohl činnost, pro niž o povolení žádal, realizovat"
+
 #### Správní řízení o udělení oprávnění
 
 Řízení vede **Ministerstvo kultury** jako věcně i místně příslušný správní orgán; subsidiárně se použije **správní řád** (zákon č. 500/2004 Sb.), pokud zákon nestanoví jinak. Forma žádosti je **písemná**; obecné náležitosti podání viz § 37 a § 45 SŘ. Lhůta pro rozhodnutí je **90 dnů** (§ 96a odst. 1).
@@ -651,6 +656,11 @@ Pravidlo umožňuje KOS experimentovat s **nestandardními licenčními podmínk
 > **§ 98c** *(1) Uživatelé jsou povinni umožnit KOS řádný výkon kolektivní správy a poskytovat mu informace o užití jeho repertoáru. (4) Provozovatel živé veřejné hudební produkce je povinen oznámit její konání KOS 15 dnů předem a předat program produkce s uvedením jmen autorů a názvů děl po konání produkce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — 8. 6. 2022, kat. A
+  > „Poskytovatel služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) užívá dílo jeho sdělováním veřejnosti podle § 18 odst. 1 a 2 autorského zákona, pokud nad rámec samotného uložení datového souboru poskytnutého uživatelem služby, jehož obsahem je toto dílo, přispívá vzhledem ke konkrétním okolnostem provozováním své služby ke zpřístupnění tohoto díla veřejnosti. Za takové situace se neprosadí právní úprava omezení odpovědnosti poskytovatele služby informační společnosti podle § 5 odst. 1 zákona o některých službách informační společnosti. Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení…"
 
 #### Suspenze oprávnění při prodlení (§ 98b)
 
@@ -1541,6 +1551,11 @@ Pokuty uložené MK plynou do **Státního fondu kultury ČR** (zákon č. 239/1
 > *(8) Správní řízení zahájená před účinností tohoto zákona se ukončí podle tohoto zákona.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2179/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50F4462A1BB1FFE3C1257F850030A944?openDocument) — 20. 1. 2016, kat. A
+  > „1. Jestliže Ministerstvo kultury nevydalo oprávnění ve smyslu § 106 odst. 7 zákona č. 121/2000 Sb. v tam stanovené lhůtě a svým dalším postupem vyvolalo pochybnosti o tom, která práva vykonávaná hromadným správcem podle zákona č. 237/1995 Sb. a v jakém rozsahu mohou být tímto správcem vykonávána i podle zákona č. 121/2000 Sb., nelze bez dalšího uzavřít, že příčinou vzniku ušlého zisku v důsledku nevykonávání daných práv podle zákona č. 121/2000 Sb. je rozhodnutí hromadného správce tato práva nevykonávat. 2. Je-li vydání úředního povolení pro výkon určité činnosti součástí obvyklého běhu věcí, je jeho nevydání v zákonem stanovené lhůtě příčinou ztráty zisku ušlého tím, že poškozený nemohl činnost, pro niž o povolení žádal, realizovat"
 
 #### Intertemporální vztah k zákonu č. 35/1965 Sb.
 

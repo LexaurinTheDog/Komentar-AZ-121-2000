@@ -1747,8 +1747,3 @@ Pro celkovou systematiku autorského práva viz též úvodní kapitoly komentá
 - Kapitola 03: Obsah autorského práva a doba ochrany (§§ 10–66) — osobnostní a majetková práva, doba ochrany, výjimky a omezení, licenční smlouva.
 - Kapitola 05: Kolektivní správa (§§ 95–104a) — výkon práv souvisejících kolektivními správci, mechanismy odměňování.
 
-
-
-
-
-

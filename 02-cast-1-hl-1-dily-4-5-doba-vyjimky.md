@@ -194,6 +194,11 @@ Odst. 3 byl do § 29 doplněn novelou č. 429/2022 Sb. (transpozice směrnice DS
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3474/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50ADED73C20459B6C1257A4E0066CC22?openDocument) — 30. 11. 2011, kat. A
+  > „Zpřístupňování zvukových záznamů veřejnosti, tj. neuzavřenému okruhu osob, sdružených ve sdružení bez právní subjektivity, které nabyly vlastnictví k hmotnému substrátu CD nosičů, nelze podřadit ustanovení § 30 odst. 1 zákona č. 121/2000 Sb., ve znění pozdějších předpisů, protože jde o činnost vykazující znaky půjčovny. Proto nabytím spoluvlastnictví k hmotnému substrátu, na němž je dílo zaznamenáno, nenabyli členové sdružení oprávnění díla zaznamenaná na CD nosičích užívat bez poskytnuté licence. Opačný přístup by zakládal neospravedlnitelnou újmu oprávněných zájmů autorů"
+
 #### Konstrukce § 30 — „není užitím" (odst. 1)
 
 § 30 odst. 1 zakotvuje volné užití pro **osobní potřebu fyzické osoby** v technicky pozoruhodné podobě: zákon nevytváří „výjimku" v pravém slova smyslu, nýbrž stanoví, že takové užití se **vůbec nepovažuje za užití díla** ve smyslu autorského zákona. Z hlediska systematiky to znamená, že § 30 stojí mimo katalog výjimek, na něž se vztahují omezení podle § 29 (zveřejnění, třístupňový test).
@@ -517,7 +522,6 @@ Tato pravidla zachovávají autorům právo na **trojrozměrnou exploataci** jej
 
 V některých evropských státech (Francie, Belgie do roku 2016, Itálie) je svoboda panoramatu omezena pouze na **nekomerční** užití; obchodní pohlednice, reklamy a komerční fotokomerce vyžadují svolení autora. Český zákon **nečiní rozdíl mezi komerčním a nekomerčním užitím** — fotografie veřejně umístěného díla může být užita i komerčně (např. v reklamní kampani, na pohlednici prodávané v komerční síti), za předpokladu uvedení autora. Tím se ČR řadí mezi liberálnější jurisdikce v této oblasti.
 
-
 ---
 
 ### § 34 — Úřední a zpravodajská licence
@@ -595,6 +599,11 @@ Politický projev (parlamentní vystoupení, prohlášení ústavního činitele
 > *(4) Ustanovení § 31 odst. 1 části věty za středníkem se pro odstavce 1 až 3 použije přiměřeně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2864/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E525733313A21885C1257F4E004167D6?openDocument) — 29. 10. 2015, kat. A
+  > „Ustanovení § 47b zákona č. 111/1998 Sb. (ve znění pozdějších předpisů) konstruuje kvazilicenční omezení autorského práva, jehož účelem je vysokou školou nevýdělečné zveřejnění disertační, diplomové, bakalářské a rigorózní práce, u kterých proběhla obhajoba, tj. zveřejnění díla [§ 4 odst. 1 zákona č. 121/2000 (ve znění pozdějších předpisů)], které přesahuje užití školního díla pro vnitřní potřebu školy ve smyslu ustanovení § 35 odst. 3 zákona č. 121/2000 Sb. (ve znění pozdějších předpisů). I v tomto případě zákonného omezení autorského práva však platí restriktivní výklad, který musí být v souladu s tříkrokovým testem, který je výslovně vyjádřen v § 29 odst. 1 autorského zákona"
 
 #### Občanské a náboženské obřady (odst. 1)
 
@@ -944,7 +953,6 @@ Autor může **kdykoli** (i poté, co k užití došlo) vyloučit užití díla 
 
 § 37b se **nepoužije na sbírky děl nedostupných na trhu, jež jsou převážně tvořeny díly z třetích zemí** (mimo EU/EHP). Důvodem je obtížnost prosadit unijní mechanismus opt-outu vůči autorům z třetích zemí, kteří nemusí mít přístup k Portálu EUIPO. U sbírek smíšeného původu se sleduje **kritérium převahy** zjištěné podle § 27c (přiměřené úsilí).
 
-
 ---
 
 ### § 38 — Užití originálu nebo rozmnoženiny díla výtvarného, fotografie nebo díla vyjádřeného postupem podobným fotografii jeho vystavením
@@ -1183,6 +1191,11 @@ Pokud STA překračuje hranice budovy (např. společný rozvod pro celé sídli
 > *Do práva autorského nezasahuje ten, kdo užije dílo pro účely karikatury, parodie nebo pastiše.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2178/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1E8A30F8249231CC1258A37004B2977?openDocument) — 28. 7. 2023, kat. A
+  > „Užití díla pro účely parodie na základě zákonné licence podle § 38g autorského zákona může spočívat rovněž v pozměnění audiovizuálního díla vložením nových záběrů a následném užití audiovizuálního díla v takto pozměněné podobě. Ustanovení § 38g autorského zákona o zákonné licenci pro karikaturu a parodii, ve znění účinném od 20. 4. 2017 do 4. 1. 2023, se použije obdobně i pro předměty práv s autorským právem souvisejících"
 
 #### Transpozice čl. 5 odst. 3 písm. k) InfoSoc a judikatura *Deckmyn*
 
@@ -1491,7 +1504,6 @@ Klíčové pravidlo § 43 odst. 6 (TPM ochrana) stanoví, že **technické prost
 
 § 29 odst. 3 (zákaz smluvního vyloučení výjimek) navíc znamená, že **klauzule v licenčních smlouvách vědeckých vydavatelů typu „TDM zakázán" jsou neúčinné** vůči privilegovaným subjektům podle § 39d.
 
-
 ---
 
 ## Díl 5 — Ochrana práva autorského
@@ -1543,6 +1555,15 @@ Klíčové pravidlo § 43 odst. 6 (TPM ochrana) stanoví, že **technické prost
 > *(4) Právo na náhradu škody a na vydání bezdůvodného obohacení podle zvláštních právních předpisů zůstává nedotčeno; místo skutečně ušlého zisku se autor může domáhat náhrady ušlého zisku ve výši odměny, která by byla obvyklá za získání takové licence v době neoprávněného nakládání s dílem. Výše bezdůvodného obohacení vzniklého na straně toho, kdo neoprávněně nakládal s dílem, aniž by k tomu získal potřebnou licenci, činí dvojnásobek odměny, která by byla za získání takové licence obvyklá v době neoprávněného nakládání s dílem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 55/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D96EB81288ED0EDCC1258C0D0052AE7C?openDocument) — 28. 11. 2024, kat. A
+  > „Právo autora na poskytnutí informací podle § 40 odst. 1 písm. c) autorského zákona se nepromlčuje"
+- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — 8. 6. 2022, kat. A
+  > „Poskytovatel služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) užívá dílo jeho sdělováním veřejnosti podle § 18 odst. 1 a 2 autorského zákona, pokud nad rámec samotného uložení datového souboru poskytnutého uživatelem služby, jehož obsahem je toto dílo, přispívá vzhledem ke konkrétním okolnostem provozováním své služby ke zpřístupnění tohoto díla veřejnosti. Za takové situace se neprosadí právní úprava omezení odpovědnosti poskytovatele služby informační společnosti podle § 5 odst. 1 zákona o některých službách informační společnosti. Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení…"
+- *NS* [30 Cdo 3474/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50ADED73C20459B6C1257A4E0066CC22?openDocument) — 30. 11. 2011, kat. A
+  > „Zpřístupňování zvukových záznamů veřejnosti, tj. neuzavřenému okruhu osob, sdružených ve sdružení bez právní subjektivity, které nabyly vlastnictví k hmotnému substrátu CD nosičů, nelze podřadit ustanovení § 30 odst. 1 zákona č. 121/2000 Sb., ve znění pozdějších předpisů, protože jde o činnost vykazující znaky půjčovny. Proto nabytím spoluvlastnictví k hmotnému substrátu, na němž je dílo zaznamenáno, nenabyli členové sdružení oprávnění díla zaznamenaná na CD nosičích užívat bez poskytnuté licence. Opačný přístup by zakládal neospravedlnitelnou újmu oprávněných zájmů autorů"
 
 #### Komplexní katalog soukromoprávních nároků
 
@@ -1864,7 +1885,6 @@ RMI může být **připojena k rozmnoženině** (např. metadata v souboru) nebo
 - **antipirátská opatření** — odstranění vodoznaků z pirátských kopií je porušením § 44 i bez samostatného porušení § 13 (rozmnožování).
 
 ---
-
 
 ---
 
