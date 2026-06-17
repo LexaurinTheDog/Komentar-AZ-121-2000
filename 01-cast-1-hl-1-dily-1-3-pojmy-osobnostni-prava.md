@@ -113,10 +113,8 @@ Tyto tři díly jsou hodnotovým a pojmovým jádrem celého autorského zákona
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 2023/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0AB1DC777EAB19CC12586CE0039F9F2?openDocument) — 24. 3. 2021, kat. A
-  > „Autorskoprávní ochrana se nevztahuje jen na dílo jako celek, ale stejně tak i na jeho jednotlivé části (mimo jiné i na název a jména postav). Podmínkou jejich právní ochrany je, aby samy o sobě splňovaly pojmové znaky díla podle § 2 odst. 1, respektive odst. 2, autorského zákona. Vnější ochrany tudíž požívá jen taková část autorského díla, která i sama o sobě, bez vztahu k dílu, vykazuje pojmové znaky autorského díla. Tyto závěry, mutatis mutandis, platí i o autorskoprávní ochraně zpracovaných děl a překladů. V těchto případech vedle sebe paralelně existuje jak prvotní dílo, které bylo zpracováno nebo přeloženo do jiného jazyka, tak zpracování (překlad) jako nové dílo samostatné, byť vzniklé odvozeně. Předmětem ochrany autorského práva není použitá metoda, respektive nápad, nýbrž tvůrčí, a proto chráněná činnost autora spočívající v tom, jak jím byl takový nápad (myšlenka, metoda) ve…"
-- *NS* [30 Cdo 5008/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E2A77EB34CE784AC1257E6D0031029E?openDocument) — 25. 3. 2015, kat. A
-  > „Využívají-li hosté internetové kavárny na počítačových stanicích grafické uživatelské rozhraní, které má charakter autorského díla, jde o sdělování tohoto díla veřejnosti ve smyslu autorského zákona"
+- *NS* [27 Cdo 2023/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0AB1DC777EAB19CC12586CE0039F9F2?openDocument) — kat. A, 24. 3. 2021
+  > „Autorskoprávní ochrana se nevztahuje jen na dílo jako celek, ale stejně tak i na jeho jednotlivé části (mimo jiné i na název a jména postav). Podmínkou jejich právní ochrany je, aby samy o sobě splňovaly pojmové znaky díla podle § 2 odst. 1, respektive odst. 2, autorského zákona. Vnější ochrany tudíž požívá jen taková část autorského díla, která i sama o sobě, bez vztahu k dílu, vykazuje pojmové znaky autorského díla. Tyto závěry, mutatis mutandis, platí i o autorskoprávní ochraně zpracovaných děl a překladů. V těchto případech vedle sebe paralelně existuje jak prvotní dílo, které bylo zpracováno nebo přeloženo do jiného jazyka, tak zpracování (překlad) jako nové dílo samostatné, byť vzniklé odvozeně. Předmětem ochrany autorského práva není použitá metoda, respektive nápad, nýbrž tvůrčí, a proto chráněná činnost autora spočívající v tom, jak jím byl takový nápad (myšlenka, metoda) ve své vnější i vnitřní formě zpracován"
 
 #### Pojmová struktura — pět definičních znaků díla (odst. 1)
 
@@ -810,9 +808,9 @@ Vystavování je **výlučným právem autora** — galerie, muzeum, výstavní 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — 8. 6. 2022, kat. A
-  > „Poskytovatel služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) užívá dílo jeho sdělováním veřejnosti podle § 18 odst. 1 a 2 autorského zákona, pokud nad rámec samotného uložení datového souboru poskytnutého uživatelem služby, jehož obsahem je toto dílo, přispívá vzhledem ke konkrétním okolnostem provozováním své služby ke zpřístupnění tohoto díla veřejnosti. Za takové situace se neprosadí právní úprava omezení odpovědnosti poskytovatele služby informační společnosti podle § 5 odst. 1 zákona o některých službách informační společnosti. Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení…"
-- *NS* [30 Cdo 5008/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E2A77EB34CE784AC1257E6D0031029E?openDocument) — 25. 3. 2015, kat. A
+- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — kat. A, 8. 6. 2022
+  > „Poskytovatel služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) užívá dílo jeho sdělováním veřejnosti podle § 18 odst. 1 a 2 autorského zákona, pokud nad rámec samotného uložení datového souboru poskytnutého uživatelem služby, jehož obsahem je toto dílo, přispívá vzhledem ke konkrétním okolnostem provozováním své služby ke zpřístupnění tohoto díla veřejnosti. Za takové situace se neprosadí právní úprava omezení odpovědnosti poskytovatele služby informační společnosti podle § 5 odst. 1 zákona o některých službách informační společnosti. Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení autora (či jiné oprávněné osoby) o autorskoprávní neoprávněnosti takového zpřístupnění, je-li tato služba vzhledem ke konkrétním okolnostem využívána jejími uživateli k porušování nebo ohrožování práva autora podle § 40 odst. 1 písm. f) autorského zákona. …"
+- *NS* [30 Cdo 5008/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E2A77EB34CE784AC1257E6D0031029E?openDocument) — kat. A, 25. 3. 2015
   > „Využívají-li hosté internetové kavárny na počítačových stanicích grafické uživatelské rozhraní, které má charakter autorského díla, jde o sdělování tohoto díla veřejnosti ve smyslu autorského zákona"
 
 #### Zastřešující kategorie sdělování veřejnosti (odst. 1)
@@ -1204,7 +1202,7 @@ Splatnost odměny je nejméně **30 dnů** od vyúčtování kolektivního sprá
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 1048/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42AA8123D41EC096C1258BEF00342E5D?openDocument) — 31. 10. 2024, kat. A
+- *NS* [23 Cdo 1048/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42AA8123D41EC096C1258BEF00342E5D?openDocument) — kat. A, 31. 10. 2024
   > „Uvádění tzv. chytrých mobilních telefonů na trh podléhá platbě autorské odměny podle § 25 odst. 1 písm. b) autorského zákona"
 
 #### Princip náhradních odměn — kompenzace za zákonné výjimky

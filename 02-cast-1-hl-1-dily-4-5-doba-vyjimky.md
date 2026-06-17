@@ -196,7 +196,7 @@ Odst. 3 byl do § 29 doplněn novelou č. 429/2022 Sb. (transpozice směrnice DS
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 3474/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50ADED73C20459B6C1257A4E0066CC22?openDocument) — 30. 11. 2011, kat. A
+- *NS* [30 Cdo 3474/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50ADED73C20459B6C1257A4E0066CC22?openDocument) — kat. A, 30. 11. 2011
   > „Zpřístupňování zvukových záznamů veřejnosti, tj. neuzavřenému okruhu osob, sdružených ve sdružení bez právní subjektivity, které nabyly vlastnictví k hmotnému substrátu CD nosičů, nelze podřadit ustanovení § 30 odst. 1 zákona č. 121/2000 Sb., ve znění pozdějších předpisů, protože jde o činnost vykazující znaky půjčovny. Proto nabytím spoluvlastnictví k hmotnému substrátu, na němž je dílo zaznamenáno, nenabyli členové sdružení oprávnění díla zaznamenaná na CD nosičích užívat bez poskytnuté licence. Opačný přístup by zakládal neospravedlnitelnou újmu oprávněných zájmů autorů"
 
 #### Konstrukce § 30 — „není užitím" (odst. 1)
@@ -542,6 +542,11 @@ V některých evropských státech (Francie, Belgie do roku 2016, Itálie) je sv
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 95/2025 - 65](https://vyhledavac.nssoud.cz/DokumentDetail/Index/769128)
+  > „Podle § 34 písm. a) autorského zákona do práva autorského nezasahuje ten, kdo v odůvodněné míře užije dílo na základě zákona pro účely mj. správního řízení nebo jiného úředního účelu. Mezi takové úřední účely přitom dle judikatury spadá i poskytnutí informace podle zákona o svobodném přístupu k informacím (viz nález Ústavního soudu ze dne 21. 3. 2017, sp. zn. IV. ÚS 3208/16…)"
+
 #### Úřední licence (písm. a)
 
 § 34 písm. a) je legislativním ukotvením **přednosti veřejnoprávních zájmů** nad autorským právem v okruhu úředních postupů. Transponuje čl. 5 odst. 3 písm. e) směrnice 2001/29/ES.
@@ -602,7 +607,7 @@ Politický projev (parlamentní vystoupení, prohlášení ústavního činitele
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 2864/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E525733313A21885C1257F4E004167D6?openDocument) — 29. 10. 2015, kat. A
+- *NS* [30 Cdo 2864/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E525733313A21885C1257F4E004167D6?openDocument) — kat. A, 29. 10. 2015
   > „Ustanovení § 47b zákona č. 111/1998 Sb. (ve znění pozdějších předpisů) konstruuje kvazilicenční omezení autorského práva, jehož účelem je vysokou školou nevýdělečné zveřejnění disertační, diplomové, bakalářské a rigorózní práce, u kterých proběhla obhajoba, tj. zveřejnění díla [§ 4 odst. 1 zákona č. 121/2000 (ve znění pozdějších předpisů)], které přesahuje užití školního díla pro vnitřní potřebu školy ve smyslu ustanovení § 35 odst. 3 zákona č. 121/2000 Sb. (ve znění pozdějších předpisů). I v tomto případě zákonného omezení autorského práva však platí restriktivní výklad, který musí být v souladu s tříkrokovým testem, který je výslovně vyjádřen v § 29 odst. 1 autorského zákona"
 
 #### Občanské a náboženské obřady (odst. 1)
@@ -1558,12 +1563,10 @@ Klíčové pravidlo § 43 odst. 6 (TPM ochrana) stanoví, že **technické prost
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 55/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D96EB81288ED0EDCC1258C0D0052AE7C?openDocument) — 28. 11. 2024, kat. A
+- *NS* [23 Cdo 55/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D96EB81288ED0EDCC1258C0D0052AE7C?openDocument) — kat. A, 28. 11. 2024
   > „Právo autora na poskytnutí informací podle § 40 odst. 1 písm. c) autorského zákona se nepromlčuje"
-- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — 8. 6. 2022, kat. A
+- *NS* [23 Cdo 1840/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D99CD7A601A668EDC125887C004F101A?openDocument) — kat. A, 8. 6. 2022
   > „Poskytovatel služby informační společnosti spočívající v ukládání informací poskytnutých uživatelem (služby veřejného datového úložiště) užívá dílo jeho sdělováním veřejnosti podle § 18 odst. 1 a 2 autorského zákona, pokud nad rámec samotného uložení datového souboru poskytnutého uživatelem služby, jehož obsahem je toto dílo, přispívá vzhledem ke konkrétním okolnostem provozováním své služby ke zpřístupnění tohoto díla veřejnosti. Za takové situace se neprosadí právní úprava omezení odpovědnosti poskytovatele služby informační společnosti podle § 5 odst. 1 zákona o některých službách informační společnosti. Aniž by poskytovatel uvedené služby sám toto dílo užíval jeho sdělováním veřejnosti, je povinen zdržet se umožnění veřejného zpřístupňování díla prostřednictvím této služby ukončením trvajícího zpřístupňování a zabráněním dalšímu takovému zpřístupňování, a to neprodleně po oznámení…"
-- *NS* [30 Cdo 3474/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50ADED73C20459B6C1257A4E0066CC22?openDocument) — 30. 11. 2011, kat. A
-  > „Zpřístupňování zvukových záznamů veřejnosti, tj. neuzavřenému okruhu osob, sdružených ve sdružení bez právní subjektivity, které nabyly vlastnictví k hmotnému substrátu CD nosičů, nelze podřadit ustanovení § 30 odst. 1 zákona č. 121/2000 Sb., ve znění pozdějších předpisů, protože jde o činnost vykazující znaky půjčovny. Proto nabytím spoluvlastnictví k hmotnému substrátu, na němž je dílo zaznamenáno, nenabyli členové sdružení oprávnění díla zaznamenaná na CD nosičích užívat bez poskytnuté licence. Opačný přístup by zakládal neospravedlnitelnou újmu oprávněných zájmů autorů"
 
 #### Komplexní katalog soukromoprávních nároků
 
