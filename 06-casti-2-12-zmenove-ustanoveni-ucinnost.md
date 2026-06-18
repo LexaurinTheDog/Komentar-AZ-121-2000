@@ -67,6 +67,42 @@ Novelou doplněný odst. 5 § 17 zákona o oceňování majetku zakotvuje zásad
 - při vypořádání společného jmění manželů zahrnujícího taková práva,
 - pro účely soudních a exekučních řízení (např. ocenění nehmotného aktiva insolvenčního dlužníka).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vydavatelství vkládá do základního kapitálu nově zakládané s. r. o. soubor majetkových práv: licenci k vydávání několika titulů, vlastní práva výrobce zvukového záznamu (audioknihy) a databázi bibliografických údajů, kterou samo pořídilo. Znalec má pro účely § 27 obchodního práva (nepeněžitý vklad) ocenit tento nehmotný majetek. Účastníci: vkladatel (vydavatel), nově vznikající společnost, soudem ustanovený znalec, rejstříkový soud. Důkazy: licenční smlouvy, smlouvy o výrobě záznamu, doklad o pořízení databáze a datu jejího pořízení, evidence o době zveřejnění záznamu.
+
+**2. Právní otázka.** Která z vkládaných práv lze podle § 17 zákona o oceňování majetku ve znění § 108 AZ ocenit a podle jakého klíče se stanoví jejich hodnota?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 108 AZ — rozšiřuje § 17 zákona č. 151/1997 Sb. o oceňování práv souvisejících s autorským právem (mimo práv výkonných umělců) a práv pořizovatele databáze; odst. 5 vylučuje z oceňování nepřevoditelná majetková práva autorská a práva výkonných umělců.
+- *Související ustanovení téhož zákona:* § 73 a násl. AZ (doba ochrany práv souvisejících), § 93 AZ (15letá doba ochrany práva pořizovatele databáze), § 26 odst. 1 AZ (nepřevoditelnost majetkových práv).
+- *Související předpisy:* zákon č. 151/1997 Sb. (§ 17), vyhláška č. 500/2002 Sb. (kategorie „práva ostatní"), zákon o daních z příjmů (odpisy nehmotného majetku).
+- *Judikatura:* nosný závěr — znalecké ocenění nehmotného aktiva musí vycházet z právně relevantní zbytkové doby ochrany; soudy odmítají ocenění aktiva, k němuž oceňovaný subjekt nedrží zcizitelné majetkové právo.
+
+**4. Subsumpce.** Práva výrobce zvukového záznamu = právo související (mimo práv výkonných umělců) → oceňuje se podle zbytku 50leté doby (§ 17 odst. 3 písm. c). Databáze → oceňuje se podle zbytku 15leté doby od pořízení (§ 17 odst. 3 písm. d). Licence k vydání titulů je smluvní oprávnění, nikoli majetkové autorské právo vkladatele; majetková autorská práva autorů se neoceňují (odst. 5).
+
+**5. Řešení.** Znalec ocení práva výrobce záznamu a databázi metodou odvozenou od zbytkové doby ochrany; majetková autorská práva (pokud by je vkladatel „vkládal") vyloučí jako neocenitelná, neboť jsou nepřevoditelná. Procesně je nutné doložit datum zveřejnění záznamu a datum pořízení databáze — bez nich nelze zbytkovou dobu vypočítat. Riziko: nadhodnocení vkladu vede k odpovědnosti za rozdíl podle korporátního práva.
+
+**6. Varianty.** (a) Pokud by šlo o práva výkonného umělce, oceňování by se neuplatnilo (výslovná výjimka). (b) Pokud doba ochrany databáze již uplynula, hodnota práva = 0 a aktivum se neoceňuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Práva výrobce záznamu byla směrnicí 2011/77/EU prodloužena na 70 let, takže klíč 50 let v § 17 je překonaný." Neutralizace: § 17 odkazuje na dobu ochrany podle AZ; po novele AZ je třeba aplikovat aktuální (delší) dobu, znalec vychází z účinného znění AZ, nikoli z původního číselného údaje.
+- *Protiargument:* „Majetková práva přecházejí na dědice, jsou tedy převoditelná, a proto by se měla oceňovat." Neutralizace: dědický přechod (§ 26 odst. 2) není převod inter vivos; odst. 5 míří na běžnou majetkovou dispozici, nikoli na dědickou sukcesi.
+- *Slabé místo:* metodika výpočtu hodnoty ze zbytkové doby ochrany není v § 17 detailně stanovena; znalec se opírá o oborové standardy a riziko sporu o metodu je vysoké.
+
+#### H. Praktický závěr
+
+Ustanovení § 108 AZ otevírá znalecké oceňování práv souvisejících a databází a zároveň jasně vylučuje nepřevoditelná autorská práva a práva výkonných umělců. V praxi je rozhodující správné určení kategorie práva a jeho zbytkové doby ochrany.
+
+**Checklist (advokát / znalec / rejstříkový soud / adresát normy):**
+- [ ] Klasifikovat každé oceňované právo (autorské majetkové / právo související / právo výkonného umělce / právo pořizovatele databáze).
+- [ ] U oceňovaných práv zjistit počátek a zbytek doby ochrany (50 let, resp. aktuálních 70 let u záznamů; 15 let u databáze).
+- [ ] Vyloučit z ocenění majetková práva autorská a práva výkonných umělců (odst. 5).
+- [ ] Ověřit aktuální dobu ochrany podle účinného znění AZ, ne podle historického číselného údaje.
+
+**Typicky rozhodné důkazy / podklady:** licenční a výrobní smlouvy, doklad o pořízení databáze a datu pořízení, údaj o zveřejnění/uskutečnění záznamu, znalecký posudek.
+
 ---
 
 ## ČÁST TŘETÍ — [neuvedeno; § 109 zrušen]
@@ -119,6 +155,42 @@ Druhá kategorie vyjímá z živnostenského režimu **výkon kolektivní správ
 
 Novela rovněž doplnila do živnostenského zákona odkazy pod čarou. V katalogu pramenů duševního vlastnictví ve **poznámce 2)** se nyní uvádí nejen patentové právo (zákon č. 527/1990 Sb.), ale **nově též právě autorský zákon č. 121/2000 Sb.**, dále zákon o ochraně topografií polovodičových prvků a zákon o užitných vzorech — komplexní mapa práv duševního vlastnictví. **Poznámka 2a)** odkazuje výslovně na AZ jako pramen kolektivní správy. Jde o legislativně-technický nástroj zajišťující čitelnost a interpretační provázanost živnostenského zákona s předpisy duševního vlastnictví.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Spisovatelka píše a vydává knihy, zároveň prodává originály svých ilustrací a uzavírá licenční smlouvy s nakladateli. Živnostenský úřad ji vyzve k ohlášení volné živnosti s tvrzením, že soustavná výdělečná činnost spočívající v prodeji vlastní tvorby je živností. Vedle toho spolek autorů zvažuje výkon kolektivní správy práv svých členů a řeší, zda potřebuje živnostenské oprávnění. Účastníci: autorka, živnostenský úřad, spolek/kolektivní správce, Ministerstvo kultury. Důkazy: doklady o autorství děl, licenční smlouvy, případné oprávnění MK ke kolektivní správě.
+
+**2. Právní otázka.** Podléhá vlastní využívání autorských práv jejich autorem a výkon kolektivní správy režimu živnostenského zákona?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 111 AZ — novelizuje § 3 odst. 1 písm. b) a c) živnostenského zákona; písm. b) vyjímá z živnosti využívání výsledků duševní tvůrčí činnosti jejich původci/autory, písm. c) vyjímá výkon kolektivní správy.
+- *Související ustanovení téhož zákona:* § 95 a násl. AZ (kolektivní správa), § 96 a § 96a AZ (oprávnění Ministerstva kultury — koncesní princip).
+- *Související předpisy:* § 3 odst. 1 živnostenského zákona č. 455/1991 Sb.; § 7 odst. 2 písm. a) zákona č. 586/1992 Sb. (autorské honoráře); čl. 15 odst. 2 Listiny (svoboda umělecké tvorby); Bernská úmluva, WCT.
+- *Judikatura:* nosný závěr — výkon činnosti, kterou zvláštní zákon výslovně vyjímá z živnosti, nelze podřadit pod živnostenský režim ani analogicky; vlastní tvůrčí činnost autora je projevem ústavně chráněné svobody tvorby.
+
+**4. Subsumpce.** Autorka využívá výsledky vlastní duševní tvůrčí činnosti chráněné AZ → naplňuje znak § 3 odst. 1 písm. b) → není živností. Spolek vykonávající kolektivní správu → znak písm. c) → není živností, ale podléhá oprávnění MK podle § 96.
+
+**5. Řešení.** Výzva živnostenského úřadu je nedůvodná — autorka nepotřebuje živnostenské oprávnění a její příjmy se daní v režimu autorských honorářů (§ 7 odst. 2 ZDP). Spolek nepotřebuje živnostenské oprávnění k výkonu kolektivní správy, musí však získat oprávnění Ministerstva kultury. Procesně: písemná reakce na výzvu s odkazem na § 3 odst. 1 písm. b) ŽZ; u kolektivní správy žádost na MK.
+
+**6. Varianty.** (a) Pokud by autorka provozovala nakladatelství i pro cizí díla (vydávání děl jiných autorů jako podnikání), šlo by o živnost. (b) Pokud spolek pouze zprostředkovává smlouvy, aniž by šlo o kolektivní správu ve smyslu § 95 AZ, výjimka písm. c) se neuplatní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Soustavná a zisková činnost autora naplňuje obecné znaky živnosti, výjimka je třeba vykládat úzce." Neutralizace: výjimka v § 3 ŽZ je výslovná a systémově navázaná na ústavní svobodu tvorby; úzký výklad nesmí popřít smysl normy — rozhodující je, zda jde o vlastní tvorbu autora.
+- *Protiargument:* „Kolektivní správce vykonává správu cizích práv za úplatu, což je podnikatelská služba." Neutralizace: jde o regulovanou činnost pod dozorem MK (§ 96 a násl.), paralelní živnostenský režim by byl duplicitní a inkonzistentní.
+- *Slabé místo:* hranice mezi vlastní tvorbou autora (mimo živnost) a podnikatelským využíváním cizích děl (živnost) může být v praxi sporná, zejména u kombinovaných modelů.
+
+#### H. Praktický závěr
+
+§ 111 AZ jasně vyjímá z živnostenského režimu jak vlastní využívání autorských práv jejich původci, tak výkon kolektivní správy. Autoři nepotřebují živnostenské oprávnění; kolektivní správci místo něj podléhají oprávnění Ministerstva kultury.
+
+**Checklist (advokát / živnostenský úřad / autor / kolektivní správce):**
+- [ ] Rozlišit, zda jde o využívání vlastní tvorby autorem (písm. b — mimo živnost) nebo o podnikání s cizími díly (živnost).
+- [ ] U kolektivní správy ověřit oprávnění MK podle § 96 AZ, nikoli živnostenské oprávnění.
+- [ ] Zařadit příjmy autora správně daňově (§ 7 odst. 2 písm. a/ ZDP).
+- [ ] Při výzvě živnostenského úřadu argumentovat § 3 odst. 1 písm. b) a c) ŽZ.
+
+**Typicky rozhodné důkazy / podklady:** doklady o autorství, licenční smlouvy, oprávnění Ministerstva kultury ke kolektivní správě, daňová evidence.
+
 ---
 
 ## ČÁST ŠESTÁ — Změna zákona o daních z příjmů
@@ -167,6 +239,42 @@ Při nadměrném počtu (např. autorovi je odevzdán „autorský náklad" 500 
 
 Toto ustanovení patří mezi řadu speciálních daňových výhod, jimiž stát podporuje **distribuci a uchování kulturního dědictví**. Společně s nižší sazbou DPH pro knihy, daňovou uznatelností nákladů na kulturu pro firmy a režimem autorských honorářů tvoří součást širšího systému **kulturně-fiskální politiky** českého státu, zakotveného v řadě navazujících předpisů (zákon č. 203/2006 Sb., o některých druzích podpory kultury; zákon č. 496/2012 Sb., o audiovizi).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Autor odborné monografie obdrží od nakladatele 15 autorských výtisků své knihy a vydavatel zároveň odevzdá zákonem stanovený počet povinných výtisků určeným knihovnám. V jiném případě nakladatel předá autorovi 600 výtisků „autorského nákladu", které autor následně sám prodává na svých přednáškách. Finanční úřad zkoumá, zda mají být tato naturální plnění zdaněna. Účastníci: autor, nakladatel, knihovny, finanční úřad. Důkazy: licenční/nakladatelská smlouva, počet a hodnota předaných výtisků, doklady o odevzdání povinných výtisků.
+
+**2. Právní otázka.** Jsou autorské rozmnoženiny a povinné výtisky osvobozeny od daně z příjmů, a kde leží hranice „počtu obvyklého"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112 AZ — doplňuje § 4 odst. 1 písm. ze) ZDP, osvobozuje příjmy ve formě povinného výtisku a autorské rozmnoženiny „v počtu obvyklém" v souvislosti s užitím předmětu autorského práva nebo práv souvisejících.
+- *Související ustanovení téhož zákona:* obecná úprava užití díla (§ 30 a násl. AZ), licenční vztah autora a nakladatele.
+- *Související předpisy:* § 4 odst. 1 a § 7 ZDP; zákon č. 37/1995 Sb. (neperiodické publikace — povinný výtisk); tiskový zákon č. 46/2000 Sb.
+- *Judikatura:* nosný závěr — osvobození naturálního plnění platí jen v rozsahu odpovídajícím jeho účelu; plnění převažující ekonomickou hodnotou maskované jako naturálie podléhá zdanění podle své skutečné povahy.
+
+**4. Subsumpce.** 15 autorských výtisků odborné knihy → odpovídá oborové praxi → „počet obvyklý" → osvobozeno (§ 4 odst. 1 písm. ze/ ZDP). Povinné výtisky odevzdané knihovnám → výslovně osvobozeny. 600 výtisků určených k dalšímu prodeji → překračuje obvyklý počet, jde fakticky o odměnu → nesplňuje znak „počtu obvyklého" → zdanitelný příjem podle § 7 ZDP.
+
+**5. Řešení.** Autorské výtisky v obvyklém počtu a povinné výtisky se nezdaňují. U 600 výtisků s komerční hodnotou je třeba přiznat zdanitelný příjem ve výši obvyklé ceny. Procesně: vést evidenci o počtu a účelu předaných výtisků; v případě sporu doložit oborovou zvyklost.
+
+**6. Varianty.** (a) Pokud by 600 výtisků sloužilo prokazatelně jen k bezúplatné propagaci (recenze, knihovny), blížilo by se to účelu osvobození, byť počet je hraniční. (b) U beletrie je obvyklý počet zpravidla vyšší než u úzce odborné publikace — hranice „obvyklosti" je oborově relativní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojem ‚počet obvyklý' je neurčitý a vylučuje předvídatelnost zdanění." Neutralizace: neurčitost se překlenuje výkladem podle oborové praxe a ujednání v licenční smlouvě; daňový subjekt nese důkazní břemeno o obvyklosti.
+- *Protiargument:* „Povinný výtisk je povinné bezúplatné plnění, žádný zdanitelný příjem nevzniká ani bez osvobození." Neutralizace: osvobození odstraňuje interpretační nejistotu (možné posouzení jako bezúplatné zcizení/příjem nabyvatele) — výslovné osvobození má praktickou hodnotu.
+- *Slabé místo:* chybí ostrý kvantitativní limit; argumentace „obvyklosti" je závislá na znaleckém/oborovém posouzení a riziku sporu se správcem daně.
+
+#### H. Praktický závěr
+
+§ 112 AZ osvobozuje od daně z příjmů povinné výtisky a autorské rozmnoženiny v obvyklém počtu. Klíčem je posouzení „obvyklosti" počtu podle oborové praxe a účelu plnění; nadměrné množství s komerční hodnotou osvobozeno není.
+
+**Checklist (advokát / daňový poradce / autor / finanční úřad):**
+- [ ] Ověřit, zda jde o povinný výtisk (zák. č. 37/1995 Sb. / tiskový zákon) — osvobozeno bez limitu počtu.
+- [ ] U autorských rozmnoženin posoudit „obvyklost" počtu podle oboru a licenční smlouvy.
+- [ ] U nadměrného počtu s komerční hodnotou přiznat zdanitelný příjem podle § 7 ZDP.
+- [ ] Vést evidenci počtu a účelu předaných výtisků pro případ kontroly.
+
+**Typicky rozhodné důkazy / podklady:** nakladatelská/licenční smlouva, doklad o počtu a hodnotě výtisků, potvrzení o odevzdání povinných výtisků, údaje o oborové zvyklosti.
+
 ---
 
 ## ČÁST SEDMÁ — [neuvedeno; § 113 zrušen]
@@ -204,6 +312,42 @@ Pozornost si zaslouží formulace „**se část I zrušuje**" — nikoli „zá
 
 Současná úprava kolektivní správy v AZ (§§ 95–104h) byla několikrát zásadně novelizována, zejména **zákonem č. 102/2017 Sb.**, který transponoval směrnici 2014/26/EU o kolektivní správě autorského práva a práv s ním souvisejících a o udělování licencí pro více území. Dnešní úprava výrazně překračuje rámec původního zákona č. 237/1995 Sb. — zavádí mj. povinnost transparentnosti kolektivních správců, výroční zprávy (Příloha č. 3 AZ), pravidla rozdělování příjmů a vazbu na mnohostranný evropský trh hudebních děl on-line.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu z roku 2002 se kolektivní správce domáhá vůči provozovateli odměn za užití hudebních děl, přičemž žalovaný namítá, že podle „starého" zákona č. 237/1995 Sb. neměl správce některá oprávnění. Současně advokát řeší, podle kterého předpisu posuzovat oprávnění správce vzniklé v roce 1998. Účastníci: kolektivní správce, provozovatel (uživatel), soud. Důkazy: oprávnění k výkonu kolektivní správy, smlouvy o užití, doklady o době vzniku spravovaných práv.
+
+**2. Právní otázka.** Podle jaké úpravy se po 1. 12. 2000 posuzuje výkon kolektivní správy, byla-li Část I zákona č. 237/1995 Sb. zrušena § 114 AZ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 114 AZ — ruší Část I zákona č. 237/1995 Sb. (samostatná úprava hromadné správy), nikoli zákon jako celek.
+- *Související ustanovení téhož zákona:* § 95 a násl. AZ (kolektivní správa, nová úprava), § 96 AZ (povinně kolektivně spravovaná práva), přechodné ustanovení § 106 AZ.
+- *Související předpisy:* zákon č. 237/1995 Sb. (zrušená Část I); pozdější zákon č. 102/2017 Sb. (transpozice směrnice 2014/26/EU).
+- *Judikatura:* nosný závěr — po derogaci dřívější úpravy se právní poměry řídí novým předpisem (s výhradou přechodných ustanovení); pojmová změna „hromadná správa" → „kolektivní správa" nemá vliv na kontinuitu oprávnění, pokud zákon nestanoví jinak.
+
+**4. Subsumpce.** Užití díla v roce 2002 → po účinnosti AZ → posuzuje se podle § 95 a násl. AZ, nikoli podle zrušené Části I zákona č. 237/1995 Sb. Námitka opřená o zrušený předpis je nedůvodná.
+
+**5. Řešení.** Soud aplikuje úpravu AZ (§ 95 a násl.); zrušená Část I zákona č. 237/1995 Sb. se na poměry po 1. 12. 2000 nepoužije. Oprávnění správce a rozsah povinně kolektivně spravovaných práv se posoudí podle AZ. Procesně: doložit oprávnění správce a podřadit nárok pod kategorie § 96 AZ.
+
+**6. Varianty.** (a) Pro poměry vzniklé a vypořádané před 1. 12. 2000 by se mohla uplatnit dosavadní úprava podle přechodného § 106 AZ. (b) Po roce 2017 by se na výkon kolektivní správy aplikovala úprava ve znění zákona č. 102/2017 Sb. (transparentnost, výroční zprávy).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušením Části I zanikla i dříve udělená oprávnění správce." Neutralizace: derogace hmotněprávní úpravy neruší automaticky existující oprávnění; kontinuitu řeší přechodná ustanovení a nová úprava AZ.
+- *Protiargument:* „Zákon č. 237/1995 Sb. byl zrušen celý, takže odkazy na něj jsou bezpředmětné." Neutralizace: zrušena byla pouze Část I; novelizační účinky ostatních částí v cílových zákonech přetrvávají.
+- *Slabé místo:* přechodné momenty na rozhraní 1996–2000 mohou vyžadovat pečlivé posouzení podle § 106 AZ; čistá aplikace nového práva nemusí pokrýt poměry zcela uzavřené před účinností AZ.
+
+#### H. Praktický závěr
+
+§ 114 AZ zrušil pouze Část I zákona č. 237/1995 Sb. a přesunul úpravu kolektivní správy do AZ (§ 95 a násl.). Po 1. 12. 2000 se výkon kolektivní správy řídí AZ; námitky opřené o zrušenou úpravu jsou neúčinné.
+
+**Checklist (advokát / soud / kolektivní správce / uživatel):**
+- [ ] Určit rozhodný okamžik užití/poměru a podle toho aplikovat AZ, příp. dosavadní úpravu (§ 106 AZ).
+- [ ] Posoudit oprávnění správce a rozsah práv podle § 95 a § 96 AZ, ne podle zrušené Části I.
+- [ ] U poměrů po roce 2017 zohlednit novelu č. 102/2017 Sb.
+- [ ] Nezaměňovat zrušení Části I se zrušením celého zákona č. 237/1995 Sb.
+
+**Typicky rozhodné důkazy / podklady:** oprávnění k výkonu kolektivní správy, smlouvy o užití, doklady o době vzniku práv a užití, sazebníky odměn.
+
 ---
 
 ## ČÁST DEVÁTÁ — [neuvedeno; § 115 zrušen]
@@ -239,6 +383,42 @@ Ponechání § 26 ve starém vysílacím zákoně by tedy vedlo k **duplicitě a
 #### Historický kontext — celkové vystřídání staré vysílací úpravy
 
 Pouhý rok po nabytí účinnosti AZ (tj. v r. 2001) byl celý zákon č. 468/1991 Sb. nahrazen zákonem č. 231/2001 Sb., který v ČR od té doby tvoří základní rámec mediálního práva. Derogace § 26 AZ tak má dnes spíše historickou hodnotu — v okamžiku přijetí zákona č. 231/2001 Sb. by stejně musela být provedena.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2001 provozovatel televizního vysílání odmítá uzavřít s výkonnými umělci a výrobci záznamů smlouvu o odměnách s tím, že jeho vztahy k nositelům práv upravoval § 26 zákona č. 468/1991 Sb. Nositelé práv tvrdí, že toto ustanovení bylo zrušeno a jejich práva se nově řídí AZ. Účastníci: provozovatel vysílání, výkonní umělci, výrobci záznamů, kolektivní správce, soud. Důkazy: doklady o vysílání děl a výkonů, evidence užitých záznamů.
+
+**2. Právní otázka.** Podle jaké úpravy se po 1. 12. 2000 posuzují autorskoprávní vztahy mezi vysílatelem a nositeli práv, byl-li § 26 zákona č. 468/1991 Sb. zrušen § 116 AZ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 116 AZ — ruší § 26 zákona č. 468/1991 Sb. (vztah vysílatele k autorům a výkonným umělcům).
+- *Související ustanovení téhož zákona:* § 21 AZ (vysílání díla), § 71–74 AZ (práva výkonných umělců), § 83–86 AZ (práva výrobců záznamů a vysílatele), § 96 odst. 1 AZ (povinná kolektivní správa).
+- *Související předpisy:* zákon č. 468/1991 Sb. (zrušený § 26), navazující zákon č. 231/2001 Sb. (regulačně-veřejnoprávní rámec vysílání); směrnice 93/83/EHS a 2019/789/EU.
+- *Judikatura:* nosný závěr — po derogaci dílčího ustanovení se příslušné poměry řídí novou komplexní úpravou; soukromoprávní (autorskoprávní) a veřejnoprávní (regulační) složka vysílání se posuzují odděleně podle příslušných předpisů.
+
+**4. Subsumpce.** Vysílání děl a výkonů v roce 2001 → soukromoprávní (autorskoprávní) hledisko → řídí se § 21, § 71–74, § 83–86 AZ; § 26 zákona č. 468/1991 Sb. již neexistuje. Některá práva podléhají povinné kolektivní správě (§ 96 odst. 1 AZ).
+
+**5. Řešení.** Provozovatel je povinen vypořádat práva podle AZ (případně prostřednictvím kolektivního správce u povinně spravovaných práv); odkaz na zrušený § 26 je neúčinný. Procesně: identifikovat užité předměty ochrany, určit nositele práv a režim (individuální/kolektivní správa) a vypořádat odměny.
+
+**6. Varianty.** (a) Pro poměry zcela uzavřené před 1. 12. 2000 by se mohla uplatnit dosavadní úprava podle přechodného § 106 AZ. (b) Po roce 2001 se veřejnoprávní (licenční, technické) otázky řídí zákonem č. 231/2001 Sb., zatímco autorskoprávní zůstávají v AZ.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušením § 26 vznikla mezera v úpravě vztahů vysílatele a nositelů práv." Neutralizace: žádná mezera nevzniká — vztahy komplexně upravuje AZ (§ 21, § 71–86, § 96), § 26 byl reziduální a duplicitní.
+- *Protiargument:* „Vysílatel jednal podle práva účinného v době zahájení vysílání." Neutralizace: po 1. 12. 2000 je rozhodný AZ; § 26 byl zrušen a nelze podle něj posuzovat poměry po účinnosti AZ.
+- *Slabé místo:* rozhraní mezi soukromoprávní (AZ) a veřejnoprávní (vysílací zákon, později č. 231/2001 Sb.) složkou může vyvolat nejasnosti o tom, který režim se na konkrétní spor aplikuje.
+
+#### H. Praktický závěr
+
+§ 116 AZ zrušil § 26 starého vysílacího zákona a soustředil autorskoprávní hlediska vysílání výhradně do AZ. Vysílatelé vypořádávají práva autorů, výkonných umělců a výrobců záznamů podle AZ, často přes povinnou kolektivní správu.
+
+**Checklist (advokát / vysílatel / nositel práv / soud):**
+- [ ] Posuzovat autorskoprávní vztahy vysílání podle AZ (§ 21, § 71–74, § 83–86), nikoli podle zrušeného § 26.
+- [ ] Identifikovat práva podléhající povinné kolektivní správě (§ 96 odst. 1 AZ).
+- [ ] Oddělit veřejnoprávní (regulační) otázky vysílání — dnes zák. č. 231/2001 Sb.
+- [ ] U poměrů před 1. 12. 2000 zvážit přechodné ustanovení § 106 AZ.
+
+**Typicky rozhodné důkazy / podklady:** evidence vysílaných děl a výkonů, doklady o užitých záznamech, smlouvy s kolektivními správci, sazebníky odměn.
 
 ---
 
@@ -315,6 +495,43 @@ Tato úprava se nevztahuje na samotné **trvání autorského práva** (70 let p
 
 Pro úplnost — derogace zák. č. 35/1965 Sb. nezasáhla do principu **dědického přechodu majetkových autorských práv** (§ 26 odst. 2 AZ), který platil již za starého zákona. Majetková práva autora přecházejí na dědice; nemá-li autor dědice nebo dědictví připadne státu, vstupuje do role „dědice" práv **Státní fond kultury České republiky** (§ 26 odst. 2 ve spojení s zákonem č. 239/1992 Sb.). Tento režim platil obdobně i podle § 28 starého zákona č. 35/1965 Sb., byť ve specifické podobě „odúmrtí" do prospěch fondu kultury.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dílo (kniha) bylo vytvořeno a vydáno v roce 1985 za účinnosti zákona č. 35/1965 Sb. Dědicové autora, který zemřel v roce 1998, se v roce 2010 domáhají ochrany majetkových práv vůči nakladateli, který knihu znovu vydal bez licence. Nakladatel namítá, že dílo vzniklo za starého zákona s kratší dobou ochrany a že práva již zanikla. Účastníci: dědicové autora, nakladatel, soud. Důkazy: doklad o vzniku a vydání díla, datum úmrtí autora, doklady o neoprávněném vydání.
+
+**2. Právní otázka.** Jak se po derogaci zákona č. 35/1965 Sb. posuzuje vznik, trvání a obsah autorských práv k dílu vzniklému před 1. 12. 2000?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117 AZ — zrušuje zákon č. 35/1965 Sb. a jeho novely (zák. č. 89/1990 Sb., zák. č. 86/1996 Sb.) s účinností od 1. 12. 2000.
+- *Související ustanovení téhož zákona:* § 106 AZ (přechodná ustanovení — ochrana se vztahuje i na díla vzniklá před účinností AZ, neuplynula-li doba ochrany), § 27 AZ (doba trvání majetkových práv 70 let p. m. a.), § 26 odst. 2 AZ (dědický přechod).
+- *Související předpisy:* zákon č. 35/1965 Sb. (zrušený); § 612, § 629 odst. 1, § 636 OZ (promlčení); Bernská úmluva (vyhláška č. 133/1980 Sb.).
+- *Judikatura:* nosný závěr — vznik práva se posuzuje podle zákona účinného v době rozhodných skutečností, kdežto trvání a obsah práva po nabytí účinnosti nového zákona podle nové úpravy, neuplynula-li doba ochrany; prodloužení doby ochrany se vztahuje i na starší díla, jejichž ochrana dosud trvá.
+
+**4. Subsumpce.** Vznik ochrany díla (1985) → starý zákon č. 35/1965 Sb. potvrzuje, že dílo bylo chráněno. Trvání a obsah po 1. 12. 2000 → AZ: doba ochrany 70 let p. m. a. od 1998 → trvá do roku 2068. V roce 2010 doba ochrany neuplynula → práva přešla na dědice (§ 26 odst. 2 AZ) a jsou chráněna podle AZ. Neoprávněné vydání 2010 → zásah do majetkových práv.
+
+**5. Řešení.** Námitka nakladatele je nedůvodná: ochrana podle AZ se vztahuje i na dílo z roku 1985, neboť doba ochrany neuplynula (§ 106 AZ). Dědicové mohou uplatnit zdržovací nárok i nárok na vydání bezdůvodného obohacení / náhradu škody. Promlčení nároku z porušení se posuzuje podle OZ (subjektivní 3 roky od zjištění škůdce a škody, objektivní 10 let od porušení). Procesně: doložit autorství, dědickou posloupnost, neoprávněné užití a běh promlčecích lhůt.
+
+**6. Varianty.** (a) Pokud by doba ochrany již uplynula (dílo volné), nárok by neobstál. (b) Smluvní vztahy (licenční smlouva) vzniklé před 1. 12. 2000 se řídí dosavadními předpisy (§ 106 AZ), takže výklad starší licence by se posuzoval podle starého zákona.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dílo vzniklo za starého zákona, proto se celý jeho právní režim řídí zákonem č. 35/1965 Sb." Neutralizace: starým zákonem se posuzuje jen vznik práva; trvání a obsah po 1. 12. 2000 se řídí AZ (§ 106 AZ).
+- *Protiargument:* „Prodloužení doby ochrany se nemůže vztahovat zpětně na starší díla." Neutralizace: § 106 AZ a logika kontinuity ochrany výslovně vztahují novou (delší) dobu na díla, jejichž ochrana dosud trvá; nejde o pravou retroaktivitu, ale o úpravu trvání dosud existujícího práva.
+- *Slabé místo:* posouzení promlčení a rozhraní smluvních vztahů (dosavadní předpisy vs. AZ) je citlivé na přesnou dataci skutečností; chybějící doklady o datech mohou oslabit nárok.
+
+#### H. Praktický závěr
+
+§ 117 AZ zrušil socialistický autorský zákon č. 35/1965 Sb. a jeho novely. Pro díla vzniklá před 1. 12. 2000 platí dvojkolejnost: vznik práva podle starého zákona, trvání a obsah podle AZ (§ 106 AZ), neuplynula-li doba ochrany.
+
+**Checklist (advokát / soud / dědic / uživatel):**
+- [ ] Určit, podle kterého zákona vznikla ochrana (rozhodné skutečnosti před/po 1. 12. 2000).
+- [ ] Ověřit, zda doba ochrany (70 let p. m. a., resp. dle kategorie) dosud trvá (§ 27 AZ, § 106 AZ).
+- [ ] Posoudit dědický přechod majetkových práv (§ 26 odst. 2 AZ).
+- [ ] U smluvních vztahů z doby před účinností AZ aplikovat dosavadní předpisy (§ 106 AZ).
+- [ ] Posoudit promlčení nároku z porušení podle OZ (§ 612, § 629, § 636).
+
+**Typicky rozhodné důkazy / podklady:** doklad o vzniku a zveřejnění díla, datum úmrtí autora, dědické rozhodnutí, doklady o neoprávněném užití, případné licenční smlouvy z doby před 1. 12. 2000.
+
 ---
 
 ## ČÁST DVANÁCTÁ — Účinnost
@@ -379,6 +596,42 @@ Závěrem § 118 stojí jména ústavních činitelů, kteří zákon podepsali 
 - **Miloš Zeman** (jako předseda vlády) — Zeman v. r.
 
 Symbolika podpisů třech ústavních funkcionářů zachycuje moment, kdy se autorské právo v ČR — po desítkách let socialistické úpravy a osmi letech reformních pokusů — etablovalo jako moderní evropský právní řád. Význam tohoto data není pouze formálně-právní, ale i kulturně-historický.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spor se týká užití díla, k němuž došlo dne 28. listopadu 2000. Žalobce (autor) uplatňuje nároky podle nového AZ, žalovaný (uživatel) namítá, že v okamžiku užití ještě AZ nebyl účinný a poměr se řídí starým zákonem č. 35/1965 Sb. V jiné větvi sporu se řeší, zda kolektivní správce mohl po 1. 12. 2000 vykonávat správu bez nového oprávnění Ministerstva kultury. Účastníci: autor, uživatel, kolektivní správce, soud. Důkazy: přesné datum užití, doklad o oprávnění správce, smluvní dokumentace.
+
+**2. Právní otázka.** Který právní režim se uplatní na skutečnosti nastalé těsně před 1. 12. 2000 a od kdy nabyla účinnosti jednotlivá ustanovení AZ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 AZ — stanoví účinnost zákona dnem 1. prosince 2000.
+- *Související ustanovení téhož zákona:* § 117 AZ (derogace starého zákona ke stejnému datu), § 106 AZ (přechodná ustanovení), § 96 AZ (oprávnění Ministerstva kultury ke kolektivní správě).
+- *Související předpisy:* zákon č. 35/1965 Sb. (do 30. 11. 2000); čl. 52 a násl. Ústavy / pravidla o platnosti a účinnosti zákonů; zákon č. 309/1999 Sb. o Sbírce zákonů.
+- *Judikatura:* nosný závěr — rozhodující je právní stav v okamžiku, kdy nastala právně významná skutečnost; zákon se na skutečnosti před nabytím účinnosti zásadně nevztahuje, nestanoví-li přechodné ustanovení jinak.
+
+**4. Subsumpce.** Užití dne 28. 11. 2000 → nastalo před účinností AZ → posuzuje se podle zákona č. 35/1965 Sb. (AZ ještě nebyl účinný; § 118 váže účinnost na 1. 12. 2000). Výkon kolektivní správy po 1. 12. 2000 → vyžaduje režim podle účinného AZ (§ 96), s ohledem na legisvakanci, jež dala správcům čas na získání oprávnění.
+
+**5. Řešení.** Pro užití před 1. 12. 2000 se aplikuje starý zákon; AZ se uplatní až na skutečnosti od 1. 12. 2000 (s výhradou trvání a obsahu práva podle § 106 AZ). Procesně: přesně datovat rozhodnou skutečnost a podle data zvolit aplikovatelný předpis. U kolektivní správy ověřit, zda správce po 1. 12. 2000 disponoval oprávněním podle § 96 AZ.
+
+**6. Varianty.** (a) Pokud by k užití došlo 1. 12. 2000 nebo později, aplikoval by se AZ. (b) Pokud by šlo o trvání a obsah práva (nikoli vznik), posuzovala by se ochrana podle AZ i u staršího díla (§ 106 AZ).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákon byl vyhlášen už v květnu 2000, takže se uplatní od vyhlášení." Neutralizace: platnost (vyhlášení) a účinnost jsou odlišné kategorie; § 118 výslovně váže účinnost na 1. 12. 2000, do té doby zákon nezakládá práva a povinnosti.
+- *Protiargument:* „Dlouhá legisvakance znevýhodnila nositele práv, kteří museli čekat na ochranu podle AZ." Neutralizace: do 30. 11. 2000 existovala ochrana podle starého zákona; legisvakance sloužila k přípravě adresátů a podzákonných předpisů, nešlo o období bez ochrany.
+- *Slabé místo:* u skutečností na samém rozhraní dat (přelom 30. 11. / 1. 12. 2000) je rozhodující přesná datace; chybějící důkaz o čase užití může zvrátit volbu aplikovatelného předpisu.
+
+#### H. Praktický závěr
+
+§ 118 AZ stanoví účinnost ke dni 1. 12. 2000 — dělící linii mezi starým a novým autorským právem. Pro volbu aplikovatelného předpisu je rozhodný okamžik vzniku právně významné skutečnosti; trvání a obsah dosud existujících práv se však po tomto datu řídí AZ (§ 106 AZ).
+
+**Checklist (advokát / soud / nositel práv / uživatel):**
+- [ ] Přesně datovat rozhodnou skutečnost (vznik práva / užití) a podle data zvolit předpis (do 30. 11. 2000 starý zákon, od 1. 12. 2000 AZ).
+- [ ] Rozlišovat platnost (vyhlášení 12. 5. 2000) a účinnost (1. 12. 2000).
+- [ ] U trvání a obsahu práva aplikovat AZ i na starší poměry (§ 106 AZ).
+- [ ] U kolektivní správy po 1. 12. 2000 ověřit oprávnění podle § 96 AZ.
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu rozhodné skutečnosti (užití/vznik díla), datum vyhlášení ve Sbírce zákonů, oprávnění kolektivního správce, smluvní dokumentace.
 
 ---
 
