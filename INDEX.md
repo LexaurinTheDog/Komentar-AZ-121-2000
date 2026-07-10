@@ -122,3 +122,7 @@ Aktuální znění k **1. 7. 2025** (zdroj: lokální výtah z e-Sbírky; konsol
 ---
 
 > **Poznámka:** Autorské právo je dynamický obor v rychlém vývoji (AI a generativní modely, NFT, online platformy). Tento komentář popisuje stav k 1. 7. 2025; další novely budou nezbytné v souvislosti s AI Act 2024/1689 a jeho dopadem na ochranu díla (viz [Komentář k AIA](/home/vojtech/Komentar-AIA-2024-1689/)).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
